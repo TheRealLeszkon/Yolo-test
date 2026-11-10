@@ -1,0 +1,8 @@
+model,device,load_time_s,inference_time_s,num_masks,status
+SAM ViT-B,cpu,0.365,28.387,73,ok (fell back to cpu)
+SAM ViT-L,cpu,2.115,34.716,145,ok (fell back to cpu)
+SAM ViT-H,cpu,5.146,37.505,140,ok (fell back to cpu)
+MobileSAM,cpu,0.155,27.292,90,ok (fell back to cpu)
+FastSAM,mps,0.094,1.125,111,ok
+EfficientSAM,mps,1.257,4.031,74,ok
+SAM2,mps,3.148,14.356,28,ok

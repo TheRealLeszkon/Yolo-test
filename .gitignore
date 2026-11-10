@@ -1,0 +1,38 @@
+# ─── Model weights / checkpoints (large, download via initialize.sh) ───
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.safetensors
+*.weights
+*.bin
+*.tflite
+
+# ─── Point clouds / captured data outputs ───
+*.ply
+DepthCamera_*.json
+DepthCapture_*.png
+
+# ─── Python ───
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ─── Android / Gradle ───
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+*.dex
+.cxx/
+
+# ─── IDE / OS ───
+.idea/
+.DS_Store
+*.iml

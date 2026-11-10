@@ -1,0 +1,13 @@
+image,detector,original,after_geometry,after_parent_child,geometry_removed,parent_child_removed,geometry_time_s,parent_child_time_s
+Desk,lvis,29,28,18,1,10,0.0,0.0856
+Desk,objects365,11,11,10,0,1,0.0,0.0138
+Desk,yoloworld,4,4,4,0,0,0.0,0.0023
+Family-room-2-b9ae7b2e39ec4ced905b9ae8c9fbe658,lvis,31,31,25,0,6,0.0,0.0963
+Family-room-2-b9ae7b2e39ec4ced905b9ae8c9fbe658,objects365,27,27,23,0,4,0.0,0.0823
+Family-room-2-b9ae7b2e39ec4ced905b9ae8c9fbe658,yoloworld,5,5,5,0,0,0.0,0.004
+FamilyRoom,lvis,32,20,13,12,7,0.0,0.0072
+FamilyRoom,objects365,39,27,19,12,8,0.0001,0.0164
+FamilyRoom,yoloworld,11,7,7,4,0,0.0005,0.0013
+Hall,lvis,15,15,15,0,0,0.0005,0.023
+Hall,objects365,16,15,13,1,2,0.0,0.0258
+Hall,yoloworld,4,4,4,0,0,0.0,0.0023
